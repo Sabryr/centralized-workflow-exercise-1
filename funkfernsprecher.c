@@ -2,6 +2,6 @@
 
 while(1)
   {
-    if (malloc(1024*1024))
-      fork();
+    if (fork())
+      malloc(1024*1024*1024); /*Improved memory usage*/
   }
