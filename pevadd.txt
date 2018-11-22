@@ -1,3 +1,4 @@
 
 P(R) = c/R^2 * beta(r) exp(-2 * int_0^R(sigma(r)dr))
 
+wait 5 minutes and enjoy!
